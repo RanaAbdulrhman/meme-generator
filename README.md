@@ -3,6 +3,4 @@
 #### A silly application for the purpose of learning React state managemement, using UseEffect to fetch data from an API, and dealing with forms. 
 
 
-<!-- 
-<img width="1362" alt="Screen Shot 2023-04-24 at 10 24 00 AM" src="https://user-images.githubusercontent.com/84894614/233927139-08f41a24-8002-4cf2-b57c-2dbe751684d0.png">
- -->
+![Screen Shot 2023-04-26 at 12 35 59 AM](https://user-images.githubusercontent.com/84894614/234409666-9c7d58c5-decf-4c97-b0d6-0a4acc1278dd.png)
